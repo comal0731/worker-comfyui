@@ -1,4 +1,4 @@
-@echo off
+디@echo off
 setlocal enabledelayedexpansion
 
 cd /d "%~dp0"
